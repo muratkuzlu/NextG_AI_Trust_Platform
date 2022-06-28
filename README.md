@@ -1,4 +1,4 @@
-# 6G_AI_TRUST_PLATFORM
+# NextG_AI_TRUST_PLATFORM
 
 # First time setup
 cd client
